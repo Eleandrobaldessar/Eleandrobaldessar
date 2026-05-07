@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eleandrobaldessar)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Eleandrobaldessar_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
