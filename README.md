@@ -12,6 +12,4 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://github.com/Eleandrobaldessar/ToDo-vue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eleandrobaldessar&repo=ToDo-vue&theme=tokyonight" />
-</a>
+[![Projeto ToDo Vue](https://img.shields.io/badge/Projeto-ToDoVue-blue?style=for-the-badge)](https://github.com/Eleandrobaldessar/ToDo-vue)
