@@ -18,4 +18,4 @@
 |----------|---------|---------|
 | 📝 ToDo Vue | [Abrir](https://to-do-vue-gamma.vercel.app/) | [GitHub](https://github.com/Eleandrobaldessar/ToDo-vue) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleandrobaldessar&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eleandrobaldessar&layout=compact)
