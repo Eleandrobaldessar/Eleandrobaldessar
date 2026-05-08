@@ -59,5 +59,5 @@ Web application for task management built with Vue.js.
 
 ## 📫 Contact
 
-- LinkedIn: YOUR_LINK
+- LinkedIn: www.linkedin.com/in/eleandro-baldessar-desenvolvedor
 - GitHub: https://github.com/Eleandrobaldessar
