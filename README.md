@@ -12,4 +12,8 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![Projeto ToDo Vue](https://img.shields.io/badge/Projeto-ToDoVue-blue?style=for-the-badge)](https://github.com/Eleandrobaldessar/ToDo-vue)
+## 🌐 Live Projects
+
+| Projeto | Deploy | Código |
+|----------|---------|---------|
+| 📝 ToDo Vue | [Abrir](https://to-do-vue.vercel.app) | [GitHub](https://github.com/Eleandrobaldessar/ToDo-vue) |
