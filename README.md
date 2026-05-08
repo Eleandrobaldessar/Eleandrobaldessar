@@ -32,17 +32,17 @@
 
 ## 📌 Featured Projects
 
-### 📝 ToDo Vue
-Web application for task management built with Vue.js.
+### 📝 Ebac car
+Web application for task management built with HTM, CSS and JavaScript.
 
-🌐 Live Demo: https://to-do-vue.vercel.app  
-💻 Repository: https://github.com/Eleandrobaldessar/ToDo-vue
+🌐 Live Demo: https://ebac-car-456.vercel.app/
+💻 Repository: https://github.com/Eleandrobaldessar/Ebac-car
 
 ## 🌐 Published Projects
 
 | Project | Technologies | Deploy |
 |----------|-------------|---------|
-| 📝 ToDo Vue | Vue.js, JavaScript | https://to-do-vue.vercel.app |
+| 📝 Ebac car | HTM, CSS and JavaScript | [https://to-do-vue.vercel.app](https://ebac-car-456.vercel.app/) |
 
 ## 📊 GitHub Stats
 
