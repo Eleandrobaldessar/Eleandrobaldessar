@@ -16,4 +16,4 @@
 
 | Projeto | Deploy | Código |
 |----------|---------|---------|
-| 📝 ToDo Vue | [Abrir]([to-do-dpcjw3kra-eleandro-baldessars-projects.vercel.app](https://to-do-vue-gamma.vercel.app/)) | [GitHub](https://github.com/Eleandrobaldessar/ToDo-vue) |
+| 📝 ToDo Vue | [Abrir](https://to-do-vue-gamma.vercel.app/) | [GitHub](https://github.com/Eleandrobaldessar/ToDo-vue) |
